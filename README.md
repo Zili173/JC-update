@@ -14,3 +14,5 @@ Notebook of upadated papers
 5. 2017-NC
   [Ca2+ signals initiate at immobile IP3 receptors adjacent to ER-plasma membrane junctions](https://www.nature.com/articles/s41467-017-01644-8)
   - IP3 receptors (IP3Rs) release Ca2+ from the ER when they bind IP3 and Ca2+. The spatial organization of IP3Rs determines both the propagation of Ca2+ signals between IP3Rs and the selective regulation of cellular responses. Here we use gene editing to fluorescently tag endogenous IP3Rs, and super-resolution microscopy to determine the geography of IP3Rs and Ca2+ signals within living cells. We show that native IP3Rs cluster within ER membranes. Most IP3R clusters are mobile, moved by diffusion and microtubule motors.
+6. 2025-Cell
+   - [SecY translocon chaperones protein folding during membrane protein insertion](https://www.cell.com/cell/fulltext/S0092-8674(25)00106-0)
