@@ -1,7 +1,13 @@
 # JC-update
 Notebook of upadated papers
 
-## 20240220
+## 20250311
+1. 2025-Nature
+- []()
+- proteasome-derived defence peptides (PDDPs)
+-  PSME3-capped proteasomes promote tryptic-like peptide cleavage, enhancing the generation of peptides with cationic termini.
+
+## 20250220
 1. 2025-Science
 - [Conformational ensembles reveal the origins of serine protease catalysis](https://www.science.org/doi/10.1126/science.ado5068)
 2. 2025-Nat Plant
